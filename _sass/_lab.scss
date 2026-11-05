@@ -1,0 +1,51 @@
+/*******************************************************************************
+ * Site-specific touches for the lab pages.
+ ******************************************************************************/
+
+// More air between a page title and the text under it.
+.post-header .post-title,
+.post article > h1:first-child {
+  margin-bottom: 1.6rem;
+  letter-spacing: -0.01em;
+}
+
+// Opening paragraphs on the home page.
+.lab-lead {
+  font-size: 1.1rem;
+  line-height: 1.75;
+  margin-bottom: 1.15rem;
+}
+
+.lab-rule {
+  margin: 2.4rem 0 1.8rem;
+}
+
+// Manual: the sticky table of contents.
+#toc-sidebar {
+  font-size: 0.85rem;
+  padding-top: 0.3rem;
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+
+  .nav-link {
+    padding: 0.16rem 0.55rem;
+    color: var(--global-text-color-light);
+    border-left: 2px solid transparent;
+    line-height: 1.35;
+  }
+
+  .nav-link.active,
+  .nav-link:hover {
+    color: var(--global-theme-color);
+    border-left-color: var(--global-theme-color);
+  }
+
+  .nav-link.nav-link-nested {
+    padding-left: 1.2rem;
+    font-size: 0.8rem;
+  }
+}

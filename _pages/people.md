@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-The lab is part of the Hu Lab, Department of Psychology and Behavioral Sciences, Zhejiang
+The lab is part of the HLab, Department of Psychology and Behavioral Sciences, Zhejiang
 University.
 
 <style>
@@ -25,7 +25,7 @@ University.
 
 <div class="lab-person">
   <h2><a href="https://person.zju.edu.cn/hyz">Dr. Yuzheng Hu</a></h2>
-  <p class="lab-role">Principal Investigator of HuLab</p>
+  <p class="lab-role">Principal Investigator of HLab</p>
   <p class="lab-affil">Department of Psychology and Behavioral Sciences, Zhejiang University</p>
   <p class="lab-focus">Research focus: brain imaging.</p>
 </div>

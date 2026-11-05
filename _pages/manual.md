@@ -4,6 +4,8 @@ title: Lab Manual & Resources
 permalink: /manual/
 nav: true
 nav_order: 2
+toc:
+  sidebar: right
 ---
 
 <p class="manual-note">This manual is a working document. It is adapted from the lab manual of the
@@ -22,18 +24,6 @@ Within your first week, try to do these:
 - Read this manual.
 - Meet the Lab Director to be added to the lab group chat and calendar.
 - Read the background papers below.
-
-## Key background papers
-
-To get a sense of the questions and the approach:
-
-- Shared neural mechanisms of visual perception and imagery — Dijkstra, Bosch & van Gerven (2019)
-- The neural mechanisms of perceptual reality monitoring — Dijkstra, Kok & Fleming (2022)
-- A neural basis for distinguishing imagination from reality — Dijkstra, von Rein, Kok & Fleming (2025)
-- The human imagination — Pearson (2019)
-- Brain mechanisms of reality monitoring — Simons, Garrison & Johnson (2017)
-- The blind mind’s eye: aphantasia — Zeman, Dewar & Della Sala (2015)
-- Cognitive computational neuroscience — Kriegeskorte & Douglas (2018)
 
 ## Vision and values
 

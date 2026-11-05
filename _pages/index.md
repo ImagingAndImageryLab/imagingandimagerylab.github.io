@@ -8,12 +8,20 @@ hide_title: true
 
 # Imaging & Imagery Lab at Zhejiang University
 
-The lab is based in the Department of Psychology and Behavioral Sciences. We combine brain
-imaging with **EEG, TMS and psychophysical paradigms** to ask what imagination is made of, how
-it is generated, and how it becomes available to awareness.
+<p class="lab-lead">Welcome! We are a student-led lab in the HLab, Department of Psychology and
+Behavioral Sciences, Zhejiang University.</p>
 
-We welcome anyone who is curious about these questions, whether or not you already have
-research experience — training and support are part of what the lab is for.
+<p class="lab-lead">We study how the brain gives rise to the mental images we see in our
+imagination: what an image is made of, how it is generated when no light reaches the eye, and how
+it becomes available to awareness. We ask how imagination departs from perception, and what
+happens when it is absent, as in aphantasia.</p>
+
+To answer these questions we combine neuroimaging with EEG, TMS and psychophysical paradigms.
+
+We are glad to hear from anyone who wants to work on these questions, whether or not they already
+have research experience.
+
+<hr class="lab-rule">
 
 ## Get in touch
 
