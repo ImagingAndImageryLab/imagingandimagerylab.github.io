@@ -5,13 +5,13 @@
 // More air between a page title and the text under it.
 .post-header .post-title,
 .post article > h1:first-child {
-  margin-bottom: 1.6rem;
+  margin-bottom: 2.4rem;
   letter-spacing: -0.01em;
 }
 
-// Opening paragraphs on the home page.
-.lab-lead {
-  font-size: 1.1rem;
+// The opening paragraphs on the home page read as one block, at one size.
+.home-copy p {
+  font-size: 1.08rem;
   line-height: 1.75;
   margin-bottom: 1.15rem;
 }

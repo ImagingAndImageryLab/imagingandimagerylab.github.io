@@ -99,7 +99,7 @@
       filesBox.appendChild(a);
     });
     filesBox.hidden = false;
-    say("Unlocked" + (payload.label ? " — " + payload.label : "") + ".", "ok");
+    say(payload.label ? "Welcome " + payload.label + "!" : "Unlocked.", "ok");
   }
 
   form.addEventListener("submit", async function (ev) {
