@@ -1,0 +1,209 @@
+:root {
+  --ink: #1c1f24;
+  --muted: #5d6470;
+  --rule: #e3e6ea;
+  --accent: #0b4f8a;
+  --bg: #ffffff;
+  --soft: #f6f7f9;
+  --max: 46rem;
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 17px; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 1.4rem;
+}
+
+/* ---------- masthead ---------- */
+header.site {
+  border-bottom: 1px solid var(--rule);
+  padding: 1.5rem 0 1.1rem;
+  margin-bottom: 2.6rem;
+}
+
+header.site .wrap {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: .6rem 1.4rem;
+}
+
+.brand {
+  font-size: 1.02rem;
+  font-weight: 600;
+  letter-spacing: .01em;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.brand small {
+  display: block;
+  font-weight: 400;
+  font-size: .78rem;
+  color: var(--muted);
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  margin-top: .15rem;
+}
+
+nav.site a {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: .92rem;
+  margin-left: 1.5rem;
+}
+
+nav.site a:first-child { margin-left: 0; }
+nav.site a:hover, nav.site a[aria-current="page"] { color: var(--accent); }
+nav.site a[aria-current="page"] { font-weight: 600; }
+
+/* ---------- typography ---------- */
+h1 {
+  font-size: 1.85rem;
+  line-height: 1.25;
+  font-weight: 600;
+  margin: 0 0 1.1rem;
+  letter-spacing: -.01em;
+}
+
+h2 {
+  font-size: 1.12rem;
+  font-weight: 600;
+  margin: 2.6rem 0 .7rem;
+  padding-bottom: .35rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 1.8rem 0 .45rem;
+}
+
+p { margin: 0 0 1rem; }
+p.lead { font-size: 1.06rem; color: var(--ink); }
+
+a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+
+ul { margin: 0 0 1.1rem; padding-left: 1.15rem; }
+li { margin-bottom: .45rem; }
+
+blockquote {
+  margin: 1.2rem 0;
+  padding: .1rem 0 .1rem 1rem;
+  border-left: 3px solid var(--rule);
+  color: var(--muted);
+}
+
+/* ---------- people ---------- */
+.person {
+  padding: 1.1rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.person:last-child { border-bottom: 0; }
+
+.person h3 { margin: 0 0 .15rem; }
+
+.person .role {
+  font-size: .8rem;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: .35rem;
+}
+
+.person .affil {
+  font-size: .92rem;
+  color: var(--muted);
+  margin-bottom: .35rem;
+}
+
+/* ---------- internal access ---------- */
+.panel {
+  background: var(--soft);
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  padding: 1.2rem 1.15rem;
+  margin: 1.2rem 0;
+}
+
+.unlock-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+  margin-top: .4rem;
+}
+
+input[type="password"] {
+  flex: 1 1 14rem;
+  min-width: 0;
+  font: inherit;
+  padding: .55rem .7rem;
+  border: 1px solid #cfd5dd;
+  border-radius: 7px;
+  background: #fff;
+}
+
+input[type="password"]:focus {
+  outline: 2px solid rgba(11, 79, 138, .25);
+  border-color: var(--accent);
+}
+
+button {
+  font: inherit;
+  font-weight: 600;
+  padding: .55rem 1.1rem;
+  border: 0;
+  border-radius: 7px;
+  background: var(--accent);
+  color: #fff;
+  cursor: pointer;
+}
+
+button:disabled { opacity: .6; cursor: progress; }
+
+.msg { margin: .7rem 0 0; font-size: .92rem; color: var(--muted); }
+.msg.error { color: #a3231f; }
+.msg.ok { color: #1d6b3c; }
+
+.files { margin-top: 1rem; }
+.files a {
+  display: block;
+  padding: .55rem .2rem;
+  border-top: 1px solid var(--rule);
+  text-decoration: none;
+}
+.files a:hover { color: var(--accent); }
+.files .size { color: var(--muted); font-size: .85rem; }
+
+/* ---------- footer ---------- */
+footer.site {
+  border-top: 1px solid var(--rule);
+  margin-top: 3.5rem;
+  padding: 1.4rem 0 2.4rem;
+  color: var(--muted);
+  font-size: .85rem;
+}
+
+footer.site a { color: var(--muted); }
+
+@media (max-width: 34rem) {
+  html { font-size: 16px; }
+  h1 { font-size: 1.55rem; }
+  nav.site a { margin-left: 1.1rem; }
+}
