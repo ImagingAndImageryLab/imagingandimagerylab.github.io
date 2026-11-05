@@ -116,10 +116,10 @@
         say("This browser cannot decrypt files here. Try a current browser over https.", "error");
         return;
       }
-      var list = await (await fetch("assets/internal/bundles.json", { cache: "no-store" })).json();
+      var list = await (await fetch("/assets/internal/bundles.json", { cache: "no-store" })).json();
       var urls = list.bundles || [];
       for (var i = 0; i < urls.length; i++) {
-        var payload = await tryBundle(urls[i], password);
+        var payload = await tryBundle("/" + String(urls[i]).replace(/^\/+/, ""), password);
         if (payload) {
           render(payload);
           return;
