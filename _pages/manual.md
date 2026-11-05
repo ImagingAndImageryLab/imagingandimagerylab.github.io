@@ -4,27 +4,16 @@ title: Lab Manual & Resources
 permalink: /manual/
 nav: true
 nav_order: 2
-description: How the lab works, and internal resources for members.
 ---
 
-How we work, what we expect from each other, and where things live.
-
-This manual is a working document. It is adapted from the lab manual of the Imagine Reality
-Lab at UCL, which in turn drew on manuals by Steve Fleming, Roy Salomon, Anne Urai and
-Mariam Aly. If something here does not match your experience, say so — the manual should
-serve the lab, not the other way round.
+<p class="manual-note">This manual is a working document. It is adapted from the lab manual of the
+Imagine Reality Lab at UCL, which in turn drew on manuals by Steve Fleming, Roy Salomon, Anne
+Urai and Mariam Aly.</p>
 
 ## Welcome
 
-Welcome to the Imaging & Imagery Lab. We study how the brain builds the world we call
-reality: how imagination and perception meet, how an image is generated without any light
-reaching the eye, and what that tells us about conscious experience. Our tools are brain
-imaging, EEG, TMS and psychophysics.
-
-The lab is small and student-led. That means two things. First, you will not be handed a
-ready-made project and told exactly what to do — you will help shape the question. Second,
-the lab depends on people being generous with their time: explaining something you already
-understand to someone who does not is part of the work, not a distraction from it.
+Welcome to the Imaging &amp; Imagery Lab. We use brain imaging to study the neuroscience of
+mental imagery, and what that tells us about conscious experience.
 
 ## Getting started
 
@@ -32,10 +21,7 @@ Within your first week, try to do these:
 
 - Read this manual.
 - Meet the Lab Director to be added to the lab group chat and calendar.
-- Write a short biography (and, if you like, a photo) for the People page.
-- Create a GitHub account — code and materials live there.
 - Read the background papers below.
-- Fix a regular meeting slot with your supervisor.
 
 ## Key background papers
 
@@ -54,47 +40,44 @@ To get a sense of the questions and the approach:
 ### Doing science well
 
 Doing science is a privilege and a responsibility. We follow the usual standards of research
-integrity — reliability, honesty, respect and accountability — and we should always be able
-to explain the reasoning behind a decision, and to change our minds when the reasoning does
-not hold.
+integrity — reliability, honesty, respect and accountability — and we should always be able to
+explain the reasoning behind a decision, and to change our minds when the reasoning does not hold.
 
 - **Make the work accessible.** Preprint when you can, publish open access when you can, and
-  discuss the venue with your supervisor before submitting.
-- **Report transparently.** Never oversell a finding or hide an unexpected one. If the data
-  do not show what you hoped, that is information, not failure — it is why the study was
-  worth running.
+  discuss the choice with your supervisor first.
+- **Report transparently.** Never oversell a finding or hide an unexpected one. If the data do
+  not show what you hoped, that is information, not failure — it is why the study was worth
+  running.
 - **Write code you could hand to someone else.** A pipeline that runs from raw data to the
   figure, with comments, saves you more time than it costs.
-- **Share data.** Inside the lab, share freely. Outside, we aim to release data when the
-  paper is published, unless there is a reason we cannot (for example, data that cannot be
-  anonymised).
+- **Share data.** Inside the lab, share freely. Outside, we aim to release data when the paper
+  is published, unless there is a reason we cannot (for example, data that cannot be anonymised).
 
 ### Keeping an open mind
 
-Once an explanation sounds good, it is tempting to look only for evidence that supports it.
-We try to resist that: question each other, propose alternative explanations, and design the
-test that could prove us wrong. Do it in a way that makes the science better rather than the
-person smaller.
+Once an explanation sounds good, it is tempting to look only for evidence that supports it. We
+try to resist that: question each other, propose alternative explanations, and design the test
+that could prove us wrong. Do it in a way that makes the science better rather than the person
+smaller.
 
 ### Culture
 
-Curiosity-driven work is worth doing for its own sake, and it is more fun with people who
-care about it. We want a lab where people from different backgrounds can follow their
-curiosity, ask basic questions without embarrassment, and disagree productively. In return we
-ask for real commitment to the research and to keeping the culture healthy.
+Curiosity-driven work is worth doing for its own sake, and it is more fun with people who care
+about it. We want a lab where people from different backgrounds can follow their curiosity, ask
+basic questions without embarrassment, and disagree productively. In return we ask for real
+commitment to the research and to keeping the culture healthy.
 
 ### Well-being
 
 Happy scientists do better science. Work-life balance is not a concession to be earned; it is
-what makes sustained work possible. Take breaks, keep something outside the lab, and tell
-someone early if the workload is getting out of hand — we routinely underestimate how long
-things take.
+what makes sustained work possible. Take breaks, keep something outside work, and tell someone
+early if the workload is getting out of hand — we routinely underestimate how long things take.
 
 Research is also unusually exposed to uncertainty, and the feedback that your work is going
 somewhere often arrives months late. Feeling like an impostor is common and says very little
-about your actual ability. If you are struggling, talk to the Lab Director or your supervisor
-in confidence; the university’s counselling service is also available and does not require you
-to explain yourself to us first.
+about your actual ability. If you are struggling, talk to your supervisor in confidence; the
+university’s counselling service is also available and does not require you to explain yourself
+to us first.
 
 ### Diversity and respect
 
@@ -102,16 +85,16 @@ We want the lab to be a place where people from different backgrounds can do the
 Beyond fairness, diverse teams ask better questions and catch each other’s blind spots.
 
 There is zero tolerance for harassment, sexism, racism, homophobia, transphobia or any other
-form of bigotry. If you experience or witness misconduct, tell the Principal Investigator or
-the Lab Director. If the concern involves one of them, take it to the department or to the
-university’s relevant office.
+form of bigotry. If you experience or witness misconduct, feel free to tell Zihao about it. If
+Zihao is the concern, take it to the department’s relevant office.
 
 ## Expectations and responsibilities
 
 Everyone in the lab is expected to:
 
 - Work on something you care about, and do it in a way you would be happy to defend.
-- Be supportive of colleagues — we are a team, and the lab is only as good as its weakest week.
+- Be supportive of colleagues — we are a team, and the work depends on people being able to
+  count on each other.
 - Keep up with the field and suggest improvements to what we do, whether in methods, analysis,
   open science or culture.
 - Be open about mistakes. You will make them; hiding them is what turns a mistake into a
@@ -128,68 +111,41 @@ Everyone in the lab is expected to:
 
 ### Authorship
 
-We follow the APA guidelines: authorship credit should reflect the individual’s contribution
-to the study. We discuss authorship at the start of a project, not at the end. The person
-leading a project is normally first author, and the supervising PI normally last. If roles
-change later, we revisit the question explicitly rather than letting it drift.
-
-### Working hours and presence
-
-There are no fixed hours, and no one is counting them. Being in the lab during weekday daytime
-still matters: it is how people learn from each other, and most of the ideas that move a
-project forward come out of unplanned conversations. Lab meetings are in person. If you need a
-different arrangement for a period, say so early.
+We follow the APA guidelines: authorship credit should reflect the individual’s contribution to
+the study. We discuss authorship at the start of a project, not at the end. The person leading a
+project is normally first author, and the supervising PI normally last. If roles change later, we
+revisit the question explicitly rather than letting it drift.
 
 ### Communication
 
-Day-to-day coordination happens in the lab group chat and by email; announcements, papers and
-resources are shared there too. Check it once a day on weekdays. You are not expected to answer
-outside working hours, and neither is anyone else.
+Experiment schedules, and everything we commit to — tasks, deadlines, meetings — live in the
+shared lab calendar. The group chat is how we stay in touch, not how we assign work: we use it to
+flag things already agreed in the calendar, and to coordinate while an experiment is running.
 
-Communication styles differ across cultures and backgrounds, and most misunderstandings come
-from assumptions rather than bad intent. If something someone said landed badly, ask what they
-meant before concluding.
+During an experiment, the people involved should keep the chat within reach. Outside experiment
+periods, the chat is simply a place to talk, argue about papers and learn from each other.
 
-### Meetings
-
-You will have a regular one-to-one with your supervisor — typically a fixed weekly slot. Some
-weeks a ten-minute check-in is enough; some weeks you need the whole hour. Come with the things
-you want to discuss, including what is stuck.
-
-The lab meeting is where work in progress gets shown, including unfinished work. Presenting
-something half-done is normal and useful; presenting nothing for months is what we are trying
-to avoid. Department seminars and the university’s talk series are worth attending when the
-topic is close to your work.
+Communication styles differ across cultures and backgrounds, and most misunderstandings come from
+assumptions rather than bad intent. If something someone said landed badly, ask what they meant
+before concluding.
 
 ### Programming
 
 We mostly use MATLAB (SPM, FieldTrip) for imaging and electrophysiology, and jsPsych for online
-experiments. Python and R are welcome where they fit better. The rule is that someone else in
-the lab should be able to run your code from the repository: keep it documented, keep it
-reproducible, and put it on GitHub.
+experiments. Python and R are welcome where they fit better. The rule is that someone else in the
+lab should be able to run your code from the repository: keep it documented, keep it reproducible,
+and put it on GitHub.
 
 ### Deadlines
 
-Academia has few fixed deadlines, which makes it easy for things to drift. If you work better
-with explicit checkpoints, say so and we will set them. If a deadline you agreed to is no longer
+Academia has few fixed deadlines, which makes it easy for things to drift. If you work better with
+explicit checkpoints, say so and we will set them. If a deadline you agreed to is no longer
 realistic, say that early rather than at the deadline.
-
-### Conferences
-
-Conferences are how you meet the field and find out what is being done before it is published.
-We aim for one or two a year depending on the project stage. Talk to your supervisor before
-planning. Venues that usually fit our work include:
-
-- Association for the Scientific Study of Consciousness (ASSC)
-- Vision Sciences Society (VSS)
-- European Conference on Visual Perception (ECVP)
-- Conference on Cognitive Computational Neuroscience (CCN)
-- International Conference on Cognitive Neuroscience (ICON)
 
 ## Thank you
 
-For reading this far. If anything here is unclear, wrong, or missing, tell the Lab Director —
-that is how the manual gets better. We hope you have a good and productive time here.
+For reading this far. If anything here is unclear, wrong, or missing, tell the Lab Director — that
+is how the manual gets better. We hope you have a good and productive time here.
 
 ## Internal Access
 
@@ -234,6 +190,7 @@ that is how the manual gets better. We hope you have a good and productive time 
   .lab-files { margin-top: .8rem; }
   .lab-files a { display: block; padding: .5rem .1rem; border-top: 1px solid var(--global-divider-color); }
   .lab-files .size { color: var(--global-text-color-light); font-size: .85rem; }
+  .manual-note { font-size: .82rem; color: var(--global-text-color-light); font-style: italic; margin-bottom: 1.6rem; }
   .lab-hint { margin: .9rem 0 0; font-size: .82rem; color: var(--global-text-color-light); }
 </style>
 
