@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-people",
           title: "People",
-          description: "Members of the Imaging &amp; Imagery Lab.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
           },
         },{id: "nav-lab-manual-amp-resources",
           title: "Lab Manual &amp; Resources",
-          description: "How the lab works, and internal resources for members.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/manual/";
