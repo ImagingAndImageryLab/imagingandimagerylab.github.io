@@ -184,4 +184,4 @@ is how the manual gets better. We hope you have a good and productive time here.
   .lab-hint { margin: .9rem 0 0; font-size: .82rem; color: var(--global-text-color-light); }
 </style>
 
-<script src="{{ '/assets/js/internal.js' | relative_url }}" defer></script>
+<script src="{{ '/assets/js/internal.js' | relative_url | bust_file_cache }}" defer></script>
