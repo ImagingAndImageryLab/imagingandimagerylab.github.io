@@ -9,6 +9,17 @@
   letter-spacing: -0.01em;
 }
 
+// The lab logo stands in for the text title on the home page.
+.post article > h1.lab-logo:first-child {
+  margin-bottom: 2.4rem;
+}
+
+.lab-logo img {
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+}
+
 // The opening paragraphs on the home page read as one block, at one size.
 .home-copy p {
   font-size: 1.08rem;

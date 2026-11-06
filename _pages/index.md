@@ -6,7 +6,10 @@ nav: false
 hide_title: true
 ---
 
-# Imaging & Imagery Lab at Zhejiang University
+<h1 class="lab-logo">
+  <img class="only-light" src="/assets/img/ziil-logo-blue.webp" alt="ZJU Imaging &amp; Imagery Lab" width="1600" height="348">
+  <img class="only-dark" src="/assets/img/ziil-logo-white.webp" alt="ZJU Imaging &amp; Imagery Lab" width="1600" height="348">
+</h1>
 
 <div class="home-copy">
 <p>Welcome! We are a student-led lab in the Department of Psychology and Behavioral Sciences,
