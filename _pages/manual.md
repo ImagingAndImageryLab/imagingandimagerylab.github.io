@@ -25,6 +25,14 @@ Within your first week, try to do these:
 - Meet the Lab Director to be added to the lab group chat and calendar.
 - Read the background papers below.
 
+## Reading
+
+Three things to read before you start, in this order:
+
+- <a href="https://www.wma.net/policies-post/wma-declaration-of-helsinki/" target="_blank" rel="noopener">The Declaration of Helsinki</a> — the ethics we work under, in its own words.
+- <a href="https://doi.org/10.1016/j.neuron.2025.05.015" target="_blank" rel="noopener">A neural basis for distinguishing imagination from reality</a> — Dijkstra, von Rein, Kok &amp; Fleming (2025).
+- <a href="https://doi.org/10.1016/j.neuropsychologia.2026.109392" target="_blank" rel="noopener">A neural model of conscious mental imagery and aphantasia</a> (2026).
+
 ## Vision and values
 
 ### Doing science well
