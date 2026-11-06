@@ -38,7 +38,7 @@ Three things to read before you start, in this order:
 ### Doing science well
 
 Doing science is a privilege and a responsibility. We follow the usual standards of research
-integrity — reliability, honesty, respect and accountability — and we should always be able to
+integrity: reliability, honesty, respect and accountability. We should always be able to
 explain the reasoning behind a decision, and to change our minds when the reasoning does not hold.
 
 - **Make the work accessible.** Preprint when you can, publish open access when you can, and
@@ -69,7 +69,7 @@ commitment to the research and to keeping the culture healthy.
 
 Happy scientists do better science. Work-life balance is not a concession to be earned; it is
 what makes sustained work possible. Take breaks, keep something outside work, and tell someone
-early if the workload is getting out of hand — we routinely underestimate how long things take.
+early if the workload is getting out of hand. We routinely underestimate how long things take.
 
 Research is also unusually exposed to uncertainty, and the feedback that your work is going
 somewhere often arrives months late. Feeling like an impostor is common and says very little
@@ -91,7 +91,7 @@ Zihao is the concern, take it to the department’s relevant office.
 Everyone in the lab is expected to:
 
 - Work on something you care about, and do it in a way you would be happy to defend.
-- Be supportive of colleagues — we are a team, and the work depends on people being able to
+- Be supportive of colleagues: we are a team, and the work depends on people being able to
   count on each other.
 - Keep up with the field and suggest improvements to what we do, whether in methods, analysis,
   open science or culture.
@@ -99,7 +99,7 @@ Everyone in the lab is expected to:
   problem. Nobody will be shamed for saying “this is wrong, here is how I found out”.
 - Try to prevent mistakes in the first place: do not rush, check twice, and ask when something
   looks off.
-- Know the limits of your knowledge, and do not be afraid to ask — or to respectfully disagree
+- Know the limits of your knowledge, and do not be afraid to ask, or to respectfully disagree
   with someone more senior, including your supervisor.
 - Judge when to keep trying and when to ask for help. If you know the next step, take it; if you
   can no longer see one, stop and ask rather than losing days.
@@ -116,7 +116,7 @@ revisit the question explicitly rather than letting it drift.
 
 ### Communication
 
-Experiment schedules, and everything we commit to — tasks, deadlines, meetings — live in the
+Experiment schedules, and everything we commit to (tasks, deadlines, meetings), live in the
 shared lab calendar. The group chat is how we stay in touch, not how we assign work: we use it to
 flag things already agreed in the calendar, and to coordinate while an experiment is running.
 
@@ -142,8 +142,8 @@ realistic, say that early rather than at the deadline.
 
 ## Thank you
 
-For reading this far. If anything here is unclear, wrong, or missing, tell the Lab Director — that
-is how the manual gets better. We hope you have a good and productive time here.
+For reading this far. If anything here is unclear, wrong, or missing, tell the Lab Director.
+That is how the manual gets better. We hope you have a good and productive time here.
 
 ## Internal Access
 
@@ -160,7 +160,7 @@ is how the manual gets better. We hope you have a good and productive time here.
   </form>
   <p class="lab-msg" id="unlock-msg" role="status" aria-live="polite"></p>
   <div class="lab-files" id="unlock-files" hidden></div>
-  <p class="lab-hint">Lost your password? Ask the Lab Director — it cannot be recovered from
+  <p class="lab-hint">Lost your password? Ask the Lab Director; it cannot be recovered from
   the site, only reset.</p>
 </div>
 

@@ -16,11 +16,10 @@ hide_title: true
 Zhejiang University.</p>
 
 <p>We study how the brain gives rise to the mental images we see in our imagination: what an image
-is made of, how it is generated when no light reaches the eye, and how it becomes available to
-awareness. We ask how imagination departs from perception, and what happens when it is absent, as
+is made of, and how one gets generated with no light reaching the eye. We ask how imagination departs from perception, and what happens when it is absent, as
 in aphantasia.</p>
 
-<p>To answer these questions we combine neuroimaging with EEG, TMS and psychophysical paradigms.</p>
+<p>We use neuroimaging, EEG and TMS, mostly with psychophysical tasks.</p>
 
 <p>We are glad to hear from anyone who wants to work on these questions, whether or not they
 already have research experience.</p>
