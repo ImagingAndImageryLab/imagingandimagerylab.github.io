@@ -53,11 +53,11 @@ University.
 <div class="lab-person">
   <h2>Zikang Ding</h2>
   <p class="lab-role">Research Assistant</p>
-  <p class="lab-affil">Department of Psychology and Behavioral Sciences, Zhejiang University</p>
+  <p class="lab-affil">Psychology Honor’s Program 26′, Zhejiang University</p>
 </div>
 
 <div class="lab-person">
   <h2>Xiangshang Guo</h2>
   <p class="lab-role">Research Assistant</p>
-  <p class="lab-affil">Department of Psychology and Behavioral Sciences, Zhejiang University</p>
+  <p class="lab-affil">Psychology Honor’s Program 26′, Zhejiang University</p>
 </div>
